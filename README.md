@@ -1,5 +1,8 @@
 # Kwh-Calculator
 A simple C# to calculate Kwh per hr
+
+![2](https://user-images.githubusercontent.com/19416425/57050383-2adf8600-6c31-11e9-9339-73da60dd5fb5.PNG)
+
 Rules :
 
 1. First 100 Kwh,                                        35 cents per Kwh
